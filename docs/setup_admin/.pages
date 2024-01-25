@@ -1,0 +1,11 @@
+title: セットアップ(サーバ)
+nav:
+    - Install
+    - uninstall.md
+    - License
+    - network_settings.md
+    - firewall.md
+    - Master
+    - Backup
+    - trial.md
+    - trial_change.md

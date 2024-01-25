@@ -1,0 +1,9 @@
+nav:
+    - index.md
+    - startup
+    - setup_admin
+    - setup_cli
+    - operation
+    - jissen_operation
+    - Trouble
+    - FAQs

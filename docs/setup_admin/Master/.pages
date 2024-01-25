@@ -1,0 +1,15 @@
+title: 各種マスタの設定
+nav:
+    - icVAT_boot.md.md
+    - User.md
+    - Access.md
+    - Category
+    - Numbering.md
+    - Status.md
+    - File_temp.md
+    - Ctpy_temp.md
+    - Checkout_remove.md
+    - File_remove.md
+    - Bu_restore.md
+    - Sys_option.md
+    - Lang_setting.md

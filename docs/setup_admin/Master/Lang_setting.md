@@ -19,26 +19,26 @@ title: Language Setting
 </tr>
 <tr>
 <th>デフォルト ユーザID</th>
-<td> icVaultクライアントのログイン画面で「ユーザ名」に設定したIDが自動で反映されます。
+<td> icVaultクライアントのログイン画面で「ユーザ名」に設定した ID が自動で反映されます。
 </td>
 </tr>
 <tr>
-<th>IRONCADのアドインに表示</th>
-<td>ご利用のIRONCADバージョンにチェックを入れます。</td>
+<th>IRONCAD のアドインに表示</th>
+<td>ご利用の IRONCAD バージョンにチェックを入れます。</td>
 </tr>
 </table>
 
 <div class="note">
 <ul>
-「IRONCAD のアドインに表示」にチェックがないIRONCADバージョンはIRONCADのアドインアプリケーションに表示されません。
+「IRONCAD のアドインに表示」にチェックがない IRONCAD バージョンは IRONCAD のアドインアプリケーションに表示されません。
 </ul>
 </div>
 
-※ここではまだ〔Apply OK〕をクリックしません。
+※ここではまだ [Apply OK] をクリックしません。
 
 ## 共通の設定
-本設定は、主にユーザがicVaultアドインの〔設定〕からサーバに接続するために実施します。
-サーバPC本体では、接続確認用としてご利用ください。
+本設定は、主にユーザが icVault アドインの [設定] からサーバに接続するために実施します。
+サーバ PC 本体では、接続確認用としてご利用ください。
 
 ![共通の画面](./img/Lang_003.png)
 
@@ -54,5 +54,5 @@ title: Language Setting
 </td>
 </table>
 
-Generalと共通の両方を設定後、〔Apply OK〕をクリックします。
+General と共通の両方を設定後、[Apply OK] をクリックします。
 

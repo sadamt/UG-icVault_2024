@@ -8,18 +8,19 @@ icVault を正式にご契約いただけました場合は、試用版ライセ
 > [参照][ライセンスの申請](./License/Li_apply.md)
 
 ### ライセンスの切り替え
-1.　スタートメニューから[icVault]-[icVaultLicenseServer]を起動します。
+
+〔1〕スタートメニューから[icVault]-[icVaultLicenseServer]を起動します。
 
 ![icVaultLicenseServer](./img/trial_change_001.png)
 
-2.　ライセンスのインポートをクリックします。
+〔2〕ライセンスのインポートをクリックします。
 
 ![評価版確認画面](./img/trial_change_002.png)
 
-3.　IRONCAD サポートから受領したライセンスデータ(dat) を開きます。
+〔3〕IRONCAD サポートから受領したライセンスデータ(dat) を開きます。
 
 ![インポート](./img/trial_change_003.png)
 
-4.　ライセンスがインポートされます。[OK] をクリックします。
+〔4〕ライセンスがインポートされます。[OK] をクリックします。
 
 ![OK](./img/trial_change_004.png)

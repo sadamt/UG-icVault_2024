@@ -4,7 +4,7 @@ title: システム・アプリケーション構成
 
 # システム・アプリケーション構成
 
-icVault はicVault Server(サーバー側)と icVault Client(クライアント側)で構成されるデータ管理システムです。<br>
+icVault は icVault Server(サーバー側)と icVault Client(クライアント側)で構成されるデータ管理システムです。<br>
 ![構成図](./img/Startup_001.png)
 
 ### icVaultサーバーの推奨システム条件
@@ -18,8 +18,8 @@ icVault はicVault Server(サーバー側)と icVault Client(クライアント�
 |SQL                |Microsoft SQL Server 2019 Standard/ Express|
 
 <div class="note">
-<li>Windows Server の種類によってはアクセスするユーザー数分CALが別途必要です。</li>
-<li>余程のユーザー数や大量のデータを取り扱わない限りExpressで運用可能です。</li>
+<li>Windows Server の種類によってはアクセスするユーザー数分の CAL が別途必要です。</li>
+<li>余程のユーザー数や大量のデータを取り扱わない限り Express で運用可能です。</li>
 </div>
 
 
@@ -36,8 +36,8 @@ icVault はicVault Server(サーバー側)と icVault Client(クライアント�
 
 ## icVaultServer
 
-icVaultはデータの管理(バックアップ含む)・アクセス権の管理・データの送受信を提供します。<br>
-icVaultServerは2つのサーバソフトウェアから構成されます。<br>
+icVault はデータの管理(バックアップ含む)・アクセス権の管理・データの送受信を提供します。<br>
+icVaultServer は 2つのサーバソフトウェアから構成されます。<br>
 <li>データベースサーバ向けソフトウェア(icVaultServerDataBase.msi)</li>
 <li>ファイルサーバ向けソフトウェア(icVaultServerFileTransfer.msi)</li>
 
@@ -52,8 +52,8 @@ icVaultServerは2つのサーバソフトウェアから構成されます。<br
 
 <div class="caution">
 <ul>
-ユーザの作成・アクセス権の設定はicVaultClientに含まれています。<br>
-データベースサーバにはicVaultClientもインストールすることをお勧めします。
+ユーザの作成・アクセス権の設定は icVaultClient に含まれています。<br>
+データベースサーバには icVaultClient もインストールすることをお勧めします。
 </ul>
 </div>
 
@@ -80,30 +80,30 @@ icVaultServerは2つのサーバソフトウェアから構成されます。<br
 ※データベースサーバ向けのツールと同じアプリケーションです。
 
 
-### icVaultClient
+### ユーザ向けソフトウェア（icVaultClient）
 本ツールはデータの登録/閲覧・ユーザの環境設定・サーバ(マスタ)の設定機能を提供します。<br>
-IRONCADがインストールされている端末では、icVaultアドインを有効にすることで様々なデータの登録が可能です。
+IRONCAD がインストールされている端末では、icVault アドインを有効にすることで様々なデータの登録が可能です。
 
 <div class="note">
-アクセス権やロール(役割)の設定が含まれますので、サーバPCにもインストールされることをお勧めします。
+アクセス権やロール(役割)の設定が含まれますので、サーバPC にもインストールされることをお勧めします。
 </div>
 
 以下のアプリケーションが含まれます。
 
 #### icVaultClientSettingTool
-icVaultServerへの接続設定や、IRONCADへアドインを追加/削除するためのツールです。
+icVaultServer への接続設定や、IRONCAD へアドインを追加/削除するためのツールです。
 
 ![icVaultClientSettingTool](./img/Startup_004.png)
 
 #### icVaultAdministrationTools
-icVaultServerの様々な設定を行うツールです。<br>
+icVaultServer の様々な設定を行うツールです。<br>
 管理者が使用します。
 
 ![icVaultAdministrationTools](./img/Startup_005.png)
 
 #### icVaultSmartGateway
-icVaultのファイルを取得・情報を閲覧・検索することができます。<br>
-ユーザが使用するicVaultの[ファイル一覧]と同じツールです。
+icVault のファイルを取得・情報を閲覧・検索することができます。<br>
+ユーザが使用する icVault の [ファイル一覧] と同じツールです。
 
 ![icVaultSmartGateway](./img/Startup_006.png)
 

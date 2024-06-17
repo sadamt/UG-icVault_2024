@@ -42,7 +42,7 @@ title: ファイルサーバの送受信の許可設定
 
 ![プロトコルおよびポートの設定](./img/file_server_008.png)
 
-〔4〕icVaultServerFileTransfer のインストールパスに移動し、icVault FileTransfer Server.exe を選択し、[開く] をクリックします。
+〔4〕icVaultServerFileTransfer のインストールパスに移動し、icVault FileTransfer Server.exe を選択し、[開く] をクリックします。<br>
 ※標準では C:\Program Files\CreativeMachine\icVaultServerFileTransfer にインストールされています
 
 ![操作の設定](./img/file_server_009.png)
@@ -84,7 +84,7 @@ title: ファイルサーバの送受信の許可設定
 
 ![プログラム設定](./img/file_server_008.png)
 
-〔4〕icVaultServerFileTransfer のインストールパスに移動し、icVault FileTransfer Server.exe を選択し、[開く] をクリックします。
+〔4〕icVaultServerFileTransfer のインストールパスに移動し、icVault FileTransfer Server.exe を選択し、[開く] をクリックします。<br>
 ※標準では C:\Program Files\CreativeMachine\icVaultServerFileTransfer にインストールされています
 
 ![操作の設定](./img/file_server_009.png)

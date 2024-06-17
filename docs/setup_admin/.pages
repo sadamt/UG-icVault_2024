@@ -5,6 +5,7 @@ nav:
     - License
     - network_settings.md
     - firewall.md
+    - file_server.md
     - Master
     - Backup
     - trial.md
